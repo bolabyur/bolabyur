@@ -1,5 +1,7 @@
 # 👨‍💻 Bayu Satria Susanto — UI/UX Designer & Frontend Developer
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Student+Developer+%F0%9F%93%9A;UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%94%A5)](https://git.io/typing-svg)
+
 Hi there! 👋  
 I'm **Bayu Satria Susanto**, a passionate **student developer** and **UI/UX designer** currently studying at **SMK Raden Umar Said**.  
 I focus on creating beautiful and functional user interfaces and developing front-end applications using modern technologies.
@@ -24,6 +26,10 @@ I focus on creating beautiful and functional user interfaces and developing fron
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🎨 Design & Creative
 
