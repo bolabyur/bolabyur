@@ -38,8 +38,8 @@ I focus on creating beautiful and functional user interfaces and developing fron
 
 ## 📊 GitHub Statistics  
 
-![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolabyur&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolabyur&layout=compact&theme=tokyonight)
+![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayu-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayu-dev&layout=compact&theme=dark)
 
 ---
 
